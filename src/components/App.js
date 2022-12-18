@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/App.css';
+import React, { useState } from "react";
 const App = () => {
 
   const handleInput = (event) =>{
